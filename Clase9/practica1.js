@@ -6,3 +6,4 @@
 // Haz un commit con los cambios: git add . git commit -m "Probando cosas nuevas"
 // Ahora, regresa a la rama principal: git checkout main
 // Pregunta de reflexión: ¿Ves el archivo experimento.txt en tu carpeta?
+
